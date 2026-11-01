@@ -1,3 +1,11 @@
+# Dice Game Challenge
+
+**Live demo:** https://dice4random.vercel.app
+
+My solution to the [SpeedRunEthereum](https://speedrunethereum.com) Dice Game Challenge challenge, built on Scaffold-ETH 2.
+
+---
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
